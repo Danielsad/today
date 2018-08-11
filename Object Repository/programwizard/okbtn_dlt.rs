@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>okbtn_dlt</name>
+   <tag></tag>
+   <elementGuidId>c78c1744-38f1-40a8-bba3-2d7e807c6da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;popContainer&quot;]/div[16]/md-dialog/md-dialog-actions/button</value>
+   </webElementProperties>
+</WebElementEntity>
